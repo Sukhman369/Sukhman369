@@ -7,7 +7,7 @@
   <!-- Badges Grid from GitLegacy Studio -->
   <p>
     <a href="https://gitlegacy.co"><img src="https://img.shields.io/badge/Decorated_With-GitLegacy.co-10b981?style=plastic&logo=github&logoColor=white" alt="GitLegacy" /></a>
-    <a href="https://github.com/Sukhman369"><img src="https://img.shields.io/badge/Fueled_Free-Will-7c3aed?style=plastic&logo=codeforces&logoColor=white" alt="Role" /></a>
+    <a href="https://github.com/Sukhman369"><img src="https://img.shields.io/badge/Fueled_By-Free_Will-7c3aed?style=plastic&logo=codeforces&logoColor=white" alt="Role" /></a>
   </p>
 
 </div>
