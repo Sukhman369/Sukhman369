@@ -7,8 +7,7 @@
   <!-- Badges Grid from GitLegacy Studio -->
   <p>
     <a href="https://gitlegacy.co"><img src="https://img.shields.io/badge/Decorated_With-GitLegacy.co-10b981?style=plastic&logo=github&logoColor=white" alt="GitLegacy" /></a>
-    <a href="https://github.com/Sukhman369"><img src="https://img.shields.io/badge/Fueled_By-ADHD-7c3aed?style=plastic&logo=codeforces&logoColor=white" alt="Role" /></a>
-    <a href="https://github.com/Sukhman369"><img src="https://img.shields.io/badge/Background-Digital_Marketing-06b6d4?style=plastic&logo=google-analytics&logoColor=white" alt="Marketing" /></a>
+    <a href="https://github.com/Sukhman369"><img src="https://img.shields.io/badge/Fueled_Free-Will-7c3aed?style=plastic&logo=codeforces&logoColor=white" alt="Role" /></a>
   </p>
 
 </div>
@@ -39,6 +38,7 @@ const sukhman = {
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black" alt="React" />
@@ -62,7 +62,7 @@ const sukhman = {
 </p>
 
 #### 📈 Digital Marketing & Growth
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/SEO_(On--Page/Off--Page)-4285F4?style=plastic&logo=google&logoColor=white" alt="SEO" />
   <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=plastic&logo=googleads&logoColor=white" alt="Google Ads" />
   <img src="https://img.shields.io/badge/Meta_Ads-0467DF?style=plastic&logo=meta&logoColor=white" alt="Meta Ads" />
