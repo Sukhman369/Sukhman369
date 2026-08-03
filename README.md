@@ -7,7 +7,7 @@
   <!-- Badges Grid from GitLegacy Studio -->
   <p>
     <a href="https://gitlegacy.co"><img src="https://img.shields.io/badge/Decorated_With-GitLegacy.co-10b981?style=plastic&logo=github&logoColor=white" alt="GitLegacy" /></a>
-    <a href="https://github.com/Sukhman369"><img src="https://img.shields.io/badge/Role-Software_Engineer-7c3aed?style=plastic&logo=codeforces&logoColor=white" alt="Role" /></a>
+    <a href="https://github.com/Sukhman369"><img src="https://img.shields.io/badge/Fueled_By-ADHD-7c3aed?style=plastic&logo=codeforces&logoColor=white" alt="Role" /></a>
     <a href="https://github.com/Sukhman369"><img src="https://img.shields.io/badge/Background-Digital_Marketing-06b6d4?style=plastic&logo=google-analytics&logoColor=white" alt="Marketing" /></a>
   </p>
 
@@ -32,22 +32,10 @@ const sukhman = {
 
 ---
 
-### 🎨 Live Contribution History (Powered by [GitLegacy.co](https://gitlegacy.co))
-
-<div align="center">
-  <!-- Live Real Contribution SVG Card generated via GitLegacy API -->
-  <a href="https://gitlegacy.co/tools/history-visualizer">
-    <img src="https://gitlegacy.co/api/u/Sukhman369.svg?theme=githubClassic" alt="Sukhman369's Real GitHub Contribution History" width="100%" />
-  </a>
-  <p><em>Want a contribution chart like this? Design yours on <a href="https://gitlegacy.co"><strong>GitLegacy.co</strong></a> ⚡</em></p>
-</div>
-
----
-
 ### 🛠️ Tech Stack & Arsenal
 
 #### 🌐 Frontend & UI
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -58,7 +46,7 @@ const sukhman = {
 </p>
 
 #### ⚙️ Backend & Frameworks
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/CodeIgniter_3-DD4814?style=plastic&logo=codeigniter&logoColor=white" alt="CodeIgniter 3" />
   <img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=plastic&logo=codeigniter&logoColor=white" alt="CodeIgniter 4" />
@@ -67,13 +55,13 @@ const sukhman = {
 </p>
 
 #### 🗄️ Database & Storage
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
 #### 🛠️ DevOps & Infrastructure
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Hostinger-673DE6?style=plastic&logo=hostinger&logoColor=white" alt="Hostinger" />
@@ -101,6 +89,6 @@ const sukhman = {
   
   [![GitLegacy Decorator](https://img.shields.io/badge/⚡_Decorate_Your_GitHub_Profile-Try_GitLegacy.co-10b981?style=plastic&logo=github&logoColor=white)](https://gitlegacy.co)
 
-  <p><em>Crafted with precision by <a href="https://github.com/Sukhman369">@Sukhman369</a> & the GitLegacy team.</em></p>
+  <p><em>Crafted with precision for Enthusiasts, Initiation by <a href="https://github.com/Sukhman369">@Sukhman369</a> & Maintained by open-source perfectionists across the world</em></p>
 
 </div>
