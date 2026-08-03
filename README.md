@@ -24,6 +24,7 @@
 ```typescript
 const sukhman = {
   code: ["PHP", "Laravel", "CodeIgniter 3 and 4", "JavaScript", "TypeScript", "React", "Next.js", "MySQL"],
+  marketing: ["SEO (On-Page/Off-Page)", "Google Ads", "Meta Ads", "Analytics", "Growth Strategy"],
   mindset: ["Polymath", "ADHD-Hyperfocus", "OCD-Precision", "Marketing-Driven Engineering"],
   currentProject: "GitLegacy.co — The Ultimate GitHub Profile Decorator & Contribution Art Suite 🎨",
   impact: "Turning unusual ideas into pixel-perfect, high-performance web products.",
@@ -58,6 +59,16 @@ const sukhman = {
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+#### 📈 Digital Marketing & Growth
+<p align="center">
+  <img src="https://img.shields.io/badge/SEO_(On--Page/Off--Page)-4285F4?style=plastic&logo=google&logoColor=white" alt="SEO" />
+  <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=plastic&logo=googleads&logoColor=white" alt="Google Ads" />
+  <img src="https://img.shields.io/badge/Meta_Ads-0467DF?style=plastic&logo=meta&logoColor=white" alt="Meta Ads" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=plastic&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=plastic&logo=googleanalytics&logoColor=white" alt="Google Analytics" />
+  <img src="https://img.shields.io/badge/Search_Console-4587F4?style=plastic&logo=googlesearchconsole&logoColor=white" alt="Search Console" />
 </p>
 
 #### 🛠️ DevOps & Infrastructure
