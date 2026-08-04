@@ -93,6 +93,7 @@ const sukhman = {
 | 📜 **License** | MIT Open Source | Public Repositories |
 
 ---
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U1M224GXT4)
 
 <div align="center">
   
