@@ -47,7 +47,10 @@ const sukhman = {
 
 #### ⚙️ Backend & Frameworks
 <p align="left">
-  
+  <a href="https://gitlegacy.co/tools/github-badges" target="_blank" rel="noopener noreferrer"><img src="https://gitlegacy.co/api/badge/shield?name=Node.js&color=5FA04E&style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
+  <a href="https://gitlegacy.co/tools/github-badges" target="_blank" rel="noopener noreferrer"><img src="https://gitlegacy.co/api/badge/shield?name=Laravel&color=FF2D20&style=flat&logo=laravel&logoColor=white" alt="Laravel" /></a>
+  <a href="https://gitlegacy.co/tools/github-badges" target="_blank" rel="noopener noreferrer"><img src="https://gitlegacy.co/api/badge/shield?name=CodeIgniter%204&color=EF4223&style=flat&logo=codeigniter&logoColor=white" alt="CodeIgniter 4" /></a>
+  <a href="https://gitlegacy.co/tools/github-badges" target="_blank" rel="noopener noreferrer"><img src="https://gitlegacy.co/api/badge/shield?name=CodeIgniter%203&color=DD4814&style=flat&logo=codeigniter&logoColor=white" alt="CodeIgniter 3" /></a>
 </p>
 
 #### 🗄️ Database & Storage
