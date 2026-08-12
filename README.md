@@ -36,39 +36,34 @@ const sukhman = {
 
 #### 🌐 Frontend & UI
 <p align="left">
-<a href="https://gitlegacy.co/tools/github-badges" target="_blank" rel="noopener noreferrer"><img src="https://gitlegacy.co/api/badge/shield?name=HTML5&color=E34F26&style=flat&logo=html5&logoColor=white" alt="HTML5" /></a>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+  <a href="https://gitlegacy.co/tools/github-badges" target="_blank" rel="noopener noreferrer"><img src="https://gitlegacy.co/api/badge/shield?name=Next.js&color=000000&style=plastic&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
+  <a href="https://gitlegacy.co/tools/github-badges" target="_blank" rel="noopener noreferrer"><img src="https://gitlegacy.co/api/badge/shield?name=React&color=61DAFB&style=plastic&logo=react&logoColor=white" alt="React" /></a>
+  <a href="https://gitlegacy.co/tools/github-badges" target="_blank" rel="noopener noreferrer"><img src="https://gitlegacy.co/api/badge/shield?name=TailwindCSS&color=06B6D4&style=plastic&logo=tailwindcss&logoColor=white" alt="TailwindCSS" /></a>
+  <a href="https://gitlegacy.co/tools/github-badges" target="_blank" rel="noopener noreferrer"><img src="https://gitlegacy.co/api/badge/shield?name=HTML5&color=E34F26&style=plastic&logo=html5&logoColor=white" alt="HTML5" /></a>
+  <a href="https://gitlegacy.co/tools/github-badges" target="_blank" rel="noopener noreferrer"><img src="https://gitlegacy.co/api/badge/shield?name=CSS3&color=1572B6&style=plastic&logo=css3&logoColor=white" alt="CSS3" /></a>
+  <a href="https://gitlegacy.co/tools/github-badges" target="_blank" rel="noopener noreferrer"><img src="https://gitlegacy.co/api/badge/shield?name=Bootstrap&color=7952B3&style=plastic&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
+  <a href="https://gitlegacy.co/tools/github-badges" target="_blank" rel="noopener noreferrer"><img src="https://gitlegacy.co/api/badge/shield?name=JavaScript&color=F7DF1E&style=plastic&logo=javascript&logoColor=white" alt="JavaScript" /></a>
 </p>
 
 #### ⚙️ Backend & Frameworks
 <p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/CodeIgniter_3-DD4814?style=plastic&logo=codeigniter&logoColor=white" alt="CodeIgniter 3" />
-  <img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=plastic&logo=codeigniter&logoColor=white" alt="CodeIgniter 4" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  
 </p>
 
 #### 🗄️ Database & Storage
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <a href="https://gitlegacy.co/tools/github-badges" target="_blank" rel="noopener noreferrer"><img src="https://gitlegacy.co/api/badge/shield?name=PostgreSQL&color=4169E1&style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+  <a href="https://gitlegacy.co/tools/github-badges" target="_blank" rel="noopener noreferrer"><img src="https://gitlegacy.co/api/badge/shield?name=MySQL&color=4479A1&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
 </p>
 
 #### 📈 Digital Marketing & Growth
 <p align="left">
-  <img src="https://img.shields.io/badge/SEO_(On--Page/Off--Page)-4285F4?style=plastic&logo=google&logoColor=white" alt="SEO" />
-  <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=plastic&logo=googleads&logoColor=white" alt="Google Ads" />
-  <img src="https://img.shields.io/badge/Meta_Ads-0467DF?style=plastic&logo=meta&logoColor=white" alt="Meta Ads" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=plastic&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=plastic&logo=googleanalytics&logoColor=white" alt="Google Analytics" />
-  <img src="https://img.shields.io/badge/Search_Console-4587F4?style=plastic&logo=googlesearchconsole&logoColor=white" alt="Search Console" />
+  <a href="https://gitlegacy.co/tools/github-badges" target="_blank" rel="noopener noreferrer"><img src="https://gitlegacy.co/api/badge/shield?name=SEO%20(Search%20Engine%20Optimization)&color=4285F4&style=for-the-badge&logo=google&logoColor=white" alt="SEO (Search Engine Optimization)" /></a>
+  <a href="https://gitlegacy.co/tools/github-badges" target="_blank" rel="noopener noreferrer"><img src="https://gitlegacy.co/api/badge/shield?name=Google%20Analytics&color=E37400&style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics" /></a>
+  <a href="https://gitlegacy.co/tools/github-badges" target="_blank" rel="noopener noreferrer"><img src="https://gitlegacy.co/api/badge/shield?name=Google%20Ads&color=4285F4&style=for-the-badge&logo=googleads&logoColor=white" alt="Google Ads" /></a>
+  <a href="https://gitlegacy.co/tools/github-badges" target="_blank" rel="noopener noreferrer"><img src="https://gitlegacy.co/api/badge/shield?name=Meta%20Ads&color=0467DF&style=for-the-badge&logo=meta&logoColor=white" alt="Meta Ads" /></a>
+  <a href="https://gitlegacy.co/tools/github-badges" target="_blank" rel="noopener noreferrer"><img src="https://gitlegacy.co/api/badge/shield?name=Google%20Search%20Console&color=4587F4&style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="Google Search Console" /></a>
+  <a href="https://gitlegacy.co/tools/github-badges" target="_blank" rel="noopener noreferrer"><img src="https://gitlegacy.co/api/badge/shield?name=Semrush&color=FF642D&style=for-the-badge&logo=semrush&logoColor=white" alt="Semrush" /></a>
 </p>
 
 #### 🛠️ DevOps & Infrastructure
