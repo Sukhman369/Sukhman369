@@ -73,12 +73,10 @@ const sukhman = {
 
 #### 🛠️ DevOps & Infrastructure
 <p align="left">
-  <p align="center">
   <a href="https://gitlegacy.co/tools/github-badges" target="_blank" rel="noopener noreferrer"><img src="https://gitlegacy.co/api/badge/shield?name=Vercel&color=000000&style=flat&logo=vercel&logoColor=white" alt="Vercel" /></a>
   <a href="https://gitlegacy.co/tools/github-badges" target="_blank" rel="noopener noreferrer"><img src="https://gitlegacy.co/api/badge/shield?name=Hostinger&color=673DE6&style=flat&logo=hostinger&logoColor=white" alt="Hostinger" /></a>
   <a href="https://gitlegacy.co/tools/github-badges" target="_blank" rel="noopener noreferrer"><img src="https://gitlegacy.co/api/badge/shield?name=Linux&color=FCC624&style=flat&logo=linux&logoColor=white" alt="Linux" /></a>
   <a href="https://gitlegacy.co/tools/github-badges" target="_blank" rel="noopener noreferrer"><img src="https://gitlegacy.co/api/badge/shield?name=Git&color=F05032&style=flat&logo=git&logoColor=white" alt="Git" /></a>
-</p>
   <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Hostinger-673DE6?style=plastic&logo=hostinger&logoColor=white" alt="Hostinger" />
